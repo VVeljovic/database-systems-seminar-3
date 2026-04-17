@@ -5,7 +5,8 @@
       "Bash(docker search *)",
       "Bash(docker pull *)",
       "Bash(python -m json.tool)",
-      "Bash(docker run *)"
+      "Bash(docker run *)",
+      "Bash(docker manifest *)"
     ]
   }
 }
